@@ -1,0 +1,112 @@
+00:03:35.222 [main] ERROR com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+00:05:55.653 [main] ERROR com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+00:06:56.054 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+00:07:13.137 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+00:07:28.433 [main] INFO  com.assesment.utility.Logs - ? 1746
+00:07:49.208 [main] INFO  com.assesment.utility.Logs - ? 2100
+09:53:44.163 [main] ERROR com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+09:54:53.139 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+09:55:12.419 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+09:55:28.305 [main] INFO  com.assesment.utility.Logs - ? 1746
+09:55:48.897 [main] INFO  com.assesment.utility.Logs - ? 1779
+10:12:03.162 [main] ERROR com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+10:13:09.990 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+10:13:29.635 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+10:13:46.215 [main] INFO  com.assesment.utility.Logs - ? 1746
+10:14:07.380 [main] INFO  com.assesment.utility.Logs - ? 1779
+10:20:48.895 [main] ERROR com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+10:21:55.200 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+10:22:18.144 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+10:22:34.607 [main] INFO  com.assesment.utility.Logs - ? 1746
+10:22:55.933 [main] INFO  com.assesment.utility.Logs - ? 1779
+10:27:11.785 [main] INFO  com.assesment.utility.Logs - getTitleTC001Has Started
+10:27:11.802 [main] ERROR com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+10:27:11.808 [main] INFO  com.assesment.utility.Logs - getTitleTC001Has successful
+10:27:30.427 [main] INFO  com.assesment.utility.Logs - getAboutUsTC002Has Started
+10:28:01.465 [main] INFO  com.assesment.utility.Logs - getContactUsTC003Has Started
+10:28:22.989 [main] INFO  com.assesment.utility.Logs - getAppDownloadLinkTC004Has Started
+10:28:49.791 [main] INFO  com.assesment.utility.Logs - validateSelectCarTC005Has Started
+10:28:57.198 [main] INFO  com.assesment.utility.Logs - validateSelectCarTC005Has successful
+10:29:08.972 [main] INFO  com.assesment.utility.Logs - validateCarBookingLinkTestTC006Has Started
+10:29:11.234 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+10:29:11.236 [main] INFO  com.assesment.utility.Logs - validateCarBookingLinkTestTC006Has successful
+10:29:23.290 [main] INFO  com.assesment.utility.Logs - validateLoginTC007Has Started
+10:29:23.884 [main] INFO  com.assesment.utility.Logs - validateLoginTC007Has successful
+10:29:31.273 [main] INFO  com.assesment.utility.Logs - validateOneWayTripTC008Has Started
+10:29:38.807 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+10:29:38.809 [main] INFO  com.assesment.utility.Logs - validateOneWayTripTC008Has successful
+10:29:48.792 [main] INFO  com.assesment.utility.Logs - validateRoundWayTripTC009Has Started
+10:30:00.934 [main] INFO  com.assesment.utility.Logs - ? 1746
+10:30:00.936 [main] INFO  com.assesment.utility.Logs - validateRoundWayTripTC009Has successful
+10:30:14.644 [main] INFO  com.assesment.utility.Logs - validatePriceOfCarAirportTripTC011Has Started
+10:30:30.106 [main] INFO  com.assesment.utility.Logs - ? 1779
+10:30:30.106 [main] INFO  com.assesment.utility.Logs - validatePriceOfCarAirportTripTC011Has successful
+11:01:14.695 [main] INFO  com.assesment.utility.Logs - getTitleTC001Has Started
+11:01:14.717 [main] INFO  com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+11:01:14.732 [main] INFO  com.assesment.utility.Logs - getTitleTC001Has successful
+11:01:21.298 [main] INFO  com.assesment.utility.Logs - getAboutUsTC002Has Started
+11:01:40.545 [main] INFO  com.assesment.utility.Logs - getContactUsTC003Has Started
+11:01:59.578 [main] INFO  com.assesment.utility.Logs - getAppDownloadLinkTC004Has Started
+11:02:18.534 [main] INFO  com.assesment.utility.Logs - validateSelectCarTC005Has Started
+11:02:25.277 [main] INFO  com.assesment.utility.Logs - validateSelectCarTC005Has successful
+11:02:32.144 [main] INFO  com.assesment.utility.Logs - validateCarBookingLinkTestTC006Has Started
+11:02:33.461 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+11:02:33.463 [main] INFO  com.assesment.utility.Logs - validateCarBookingLinkTestTC006Has successful
+11:02:41.194 [main] INFO  com.assesment.utility.Logs - validateLoginTC007Has Started
+11:02:41.705 [main] INFO  com.assesment.utility.Logs - validateLoginTC007Has successful
+11:02:48.358 [main] INFO  com.assesment.utility.Logs - validateOneWayTripTC008Has Started
+11:02:56.026 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+11:02:56.028 [main] INFO  com.assesment.utility.Logs - validateOneWayTripTC008Has successful
+11:03:02.061 [main] INFO  com.assesment.utility.Logs - validateRoundWayTripTC009Has Started
+11:03:13.180 [main] INFO  com.assesment.utility.Logs - ? 1746
+11:03:13.184 [main] INFO  com.assesment.utility.Logs - validateRoundWayTripTC009Has successful
+11:03:19.991 [main] INFO  com.assesment.utility.Logs - validatePriceOfCarAirportTripTC011Has Started
+11:03:35.551 [main] INFO  com.assesment.utility.Logs - ? 1779
+11:03:35.554 [main] INFO  com.assesment.utility.Logs - validatePriceOfCarAirportTripTC011Has successful
+11:42:27.847 [main] INFO  com.assesment.utility.Logs - getTitleTC001Has Started
+11:42:27.873 [main] INFO  com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+11:42:27.889 [main] INFO  com.assesment.utility.Logs - getTitleTC001Has successful
+11:42:35.160 [main] INFO  com.assesment.utility.Logs - getAboutUsTC002Has Started
+11:42:54.609 [main] INFO  com.assesment.utility.Logs - getContactUsTC003Has Started
+11:43:14.980 [main] INFO  com.assesment.utility.Logs - getAppDownloadLinkTC004Has Started
+11:43:38.244 [main] INFO  com.assesment.utility.Logs - validateSelectCarTC005Has Started
+11:43:45.015 [main] INFO  com.assesment.utility.Logs - validateSelectCarTC005Has successful
+11:43:50.903 [main] INFO  com.assesment.utility.Logs - validateCarBookingLinkTestTC006Has Started
+11:43:52.215 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+11:43:52.218 [main] INFO  com.assesment.utility.Logs - validateCarBookingLinkTestTC006Has successful
+11:43:58.841 [main] INFO  com.assesment.utility.Logs - validateLoginTC007Has Started
+11:43:59.399 [main] INFO  com.assesment.utility.Logs - validateLoginTC007Has successful
+11:44:05.189 [main] INFO  com.assesment.utility.Logs - validateOneWayTripTC008Has Started
+11:44:12.941 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+11:44:12.943 [main] INFO  com.assesment.utility.Logs - validateOneWayTripTC008Has successful
+11:44:20.980 [main] INFO  com.assesment.utility.Logs - validateRoundWayTripTC009Has Started
+11:44:32.173 [main] INFO  com.assesment.utility.Logs - ? 1746
+11:44:32.176 [main] INFO  com.assesment.utility.Logs - validateRoundWayTripTC009Has successful
+11:44:39.191 [main] INFO  com.assesment.utility.Logs - validatePriceOfCarAirportTripTC011Has Started
+11:44:54.872 [main] INFO  com.assesment.utility.Logs - ? 1779
+11:44:54.874 [main] INFO  com.assesment.utility.Logs - validatePriceOfCarAirportTripTC011Has successful
+11:51:34.952 [main] INFO  com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+11:52:55.807 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+11:53:18.431 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+11:53:35.313 [main] INFO  com.assesment.utility.Logs - ? 1746
+11:53:57.479 [main] INFO  com.assesment.utility.Logs - ? 1779
+11:56:13.177 [main] INFO  com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+11:57:37.166 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+11:57:57.799 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+11:58:19.574 [main] INFO  com.assesment.utility.Logs - ? 1746
+11:58:41.495 [main] INFO  com.assesment.utility.Logs - ? 2100
+12:05:38.530 [main] INFO  com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+12:06:55.020 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+12:07:16.695 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+12:07:35.999 [main] INFO  com.assesment.utility.Logs - ? 1746
+12:07:58.133 [main] INFO  com.assesment.utility.Logs - ? 1779
+15:57:51.449 [main] INFO  com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+15:59:16.253 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+15:59:38.918 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+15:59:56.707 [main] INFO  com.assesment.utility.Logs - ? 1746
+16:00:20.218 [main] INFO  com.assesment.utility.Logs - ? 2100
+16:10:14.527 [main] INFO  com.assesment.utility.Logs - Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+16:11:37.945 [main] INFO  com.assesment.utility.Logs - India's Largest Intercity and Local Cab Services
+16:12:03.354 [main] INFO  com.assesment.utility.Logs - Toyota Etios or Equivalent
+16:12:20.678 [main] INFO  com.assesment.utility.Logs - ? 1746
+16:12:44.757 [main] INFO  com.assesment.utility.Logs - ? 2100
